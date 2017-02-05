@@ -1,2 +1,2 @@
-# cattoy
-Arduino Cat Toy
+# Arduino Cat Toy
+This Arduino project is something created for my kitten Hazel. Basically, this toy is a motor inside a box with a cat toy fishing rod attached to the lid. Whenever Hazel is 350 cms (or closer) to the sensor on the side of the box, the motor triggers the rod to spin 360 degrees. The idea was that Hazel would chase the rod and tire herself out, but so far her reaction has been pure fear. Oh well.
